@@ -674,7 +674,7 @@ copies or substantial portions of the Software.
 ## 📞 **Contact**
 
 - **Author**: Muhammad Faraz
-- **Email**: 221980007@gift.edu.pk
+- **Email**: khokharfaraz54@gmail.com
 - **Institution**: GIFT University
 - **Repository**: [GitHub](https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network)
 
