@@ -561,7 +561,7 @@ CT imaging provides detailed lung structure visualization, making it valuable fo
 ### **Development Setup**
 ```bash
 # Clone repository
-git clone https://github.com/HassanRasheed91/FD-MVNet-Foundation-Distilled-Medical-Vision-Network.git
+git clone https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network.git
 cd FD-MVNet-Foundation-Distilled-Medical-Vision-Network
 
 # Create development environment
@@ -624,8 +624,8 @@ python -c "from dataset import ResearchGradeCOVIDDataset; ResearchGradeCOVIDData
 - **DataLoader**: Increase num_workers for faster data loading
 
 ### **Getting Help**
-- 📧 **Email**: 221980038@gift.edu.pk
-- 💬 **Issues**: [GitHub Issues](https://github.com/HassanRasheed91/FD-MVNet-Foundation-Distilled-Medical-Vision-Network/issues)
+- 📧 **Email**: 221980007@gift.edu.pk
+- 💬 **Issues**: [GitHub Issues](https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network/issues)
 
 ---
 
@@ -636,7 +636,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Hassan Rasheed
+Copyright (c) 2024 Muhammad Faraz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -673,16 +673,16 @@ copies or substantial portions of the Software.
 
 ## 📞 **Contact**
 
-- **Author**: Hassan Rasheed
-- **Email**: 221980038@gift.edu.pk
+- **Author**: Muhammad Faraz
+- **Email**: 221980007@gift.edu.pk
 - **Institution**: GIFT University
-- **Repository**: [GitHub](https://github.com/HassanRasheed91/FD-MVNet-Foundation-Distilled-Medical-Vision-Network)
+- **Repository**: [GitHub](https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network)
 
 ---
 
 ### 🎯 **Ready to achieve 97.86% COVID detection accuracy?**
 
-**[⭐ Star this repo](https://github.com/HassanRasheed91/FD-MVNet-Foundation-Distilled-Medical-Vision-Network)** • **[🍴 Fork it](https://github.com/HassanRasheed91/FD-MVNet-Foundation-Distilled-Medical-Vision-Network/fork)** 
+**[⭐ Star this repo](https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network)** • **[🍴 Fork it](https://github.com/kkfaraz/-FD-MVNet-Foundation-Distilled-Medical-Vision-Network/fork)** 
 
 **Built with ❤️ for advancing medical AI research**
 
